@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Caligraphy.iml" filepath="$PROJECT_DIR$/.idea/Caligraphy.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/dlaf/.idea/dlaf.iml" filepath="$USER_HOME$/PycharmProjects/dlaf/.idea/dlaf.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/svgpathtools_extended/.idea/svgpathtools_extended.iml" filepath="$USER_HOME$/PycharmProjects/svgpathtools_extended/.idea/svgpathtools_extended.iml" />
     </modules>
   </component>
 </project>
